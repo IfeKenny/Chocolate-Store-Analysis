@@ -1,4 +1,4 @@
-# This dashboard provides a comprehensive overview of a Chocolate Store Analysis, focusing on sales performance, store distribution, and geographic trends. The key performance indicators (KPIs) and insights:
+This dashboard provides a comprehensive overview of a Chocolate Store Analysis, focusing on sales performance, store distribution, and geographic trends. The key performance indicators (KPIs) and insights:
 - Total Revenue: 2.43K
 - Total Orders: 100
 - Total Quantity Sold: 296 units
